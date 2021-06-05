@@ -1,5 +1,5 @@
 # **Login_form**
-Este projeto tem por objetivo criar unicamente um  formulário de login.  Para fins de incremento do presente trabalho, utilizei alguns pseudos-elementos como: `::after`, `::before` e `::placeholder`.  
+Este projeto tem por objetivo criar unicamente um  formulário de login, bem como deixá-lo responsivo.  Para fins de incremento do presente trabalho, utilizei alguns pseudos-elementos como: `::after`, `::before` e `::placeholder`.  
 
 Alem disso, fiz uso de `animation` e `@keyframes`. Ambas juntas consistem em transicionar as cores do background de forma continua. 
 
@@ -46,4 +46,8 @@ Alem disso, fiz uso de `animation` e `@keyframes`. Ambas juntas consistem em tra
 
 ## Layout:
 
+![](https://github.com/Bruno-Luna/login_form/blob/master/layout/layout_I.png)
 
+
+
+![](https://github.com/Bruno-Luna/login_form/blob/master/layout/layout_II.png)
